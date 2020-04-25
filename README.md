@@ -1,0 +1,11 @@
+shaharna13
+sol3.py
+answer_q1.txt
+answer_q2.txt
+answer_q3.txt
+21.jpg
+22.jpg
+Lenna.jpg
+mask1.jpg
+mask2.jpg
+voldemort5.jpg

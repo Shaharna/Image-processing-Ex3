@@ -1,0 +1,6 @@
+Q1:
+
+As we studied, each laplacian level represent a different frequencies levels
+of the original image.
+Once we multiply each laplacian level with different value we choose to make
+some frequencies band more significant then others.

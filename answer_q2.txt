@@ -1,0 +1,8 @@
+Q2:
+
+The image filters determine the gaussian filter size which will affect the
+blurring of the image when we calculate it׳s pyramids.
+There is a connection between the size of the image and the size of the filter,
+so as we calculate the pyramids because the images get smaller, the filter
+will affect the image differently. Meaning it's effect will be more significant.
+The bigger the size of the filter is the detailed the images are when blending.

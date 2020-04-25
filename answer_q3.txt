@@ -1,0 +1,8 @@
+Q3:
+
+The number of levels on the blending pyramid determine how sharp/ smooth the
+blend will be at the result image.
+As we learned in class, the number of levels will effect the separation at
+the lower frequencies and this will cause a better blend at the general features.
+Therefore, when we build with small amount if levels,
+the result blend will be sharper then blending with more levels.
